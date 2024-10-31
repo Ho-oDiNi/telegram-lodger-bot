@@ -1,9 +1,10 @@
 ## LodgerBot
 В этом проекте реализован телеграм бот (aiogram 3) с дополнительной привязкой к google sheets
 
-# В общем виде архитектура выглядит так:
+В общем виде архитектура выглядит так:
 
-![image](https://github.com/user-attachments/assets/12467ff8-74ba-4bb5-bbd2-58eb7622b37f)
+![image](https://github.com/user-attachments/assets/ce68a180-ef6d-414e-be3a-c36a62b494ab)
+
 
 В основном потоке организована работа со всеми пользователями с разделением их по ролям.
 
